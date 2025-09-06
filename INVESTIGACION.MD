@@ -47,41 +47,41 @@ contenido ind, relacionado con el contenido principal, ejemplo barra lateral
 
 pie de la pagina, datos de derecho de autor y acerca del autor.
 .
-8.<h1>
+8:<h1>
 etiqueta de encabezado del 1 al 6, siendo la h1 la de tamaño de fuente mayor 
 
-9.<p> 
+9:<p> 
 Define un párrafo
 
-10.<a href=''> 
+10:<a href=''> 
 define hiperenlace u otros recursos 
 
-11.<ul> 
+11:<ul> 
 Define una lista desordenada
 
-12.<ol> 
+12:<ol> 
 Define una lista ordenada
 
-13.<form> 
+13:<form> 
 representa un formulario
 
-14.<label> 
+14:<label> 
 define un titulo de un campo de formulario
 
-15.<button>
+15:<button>
 Representa un botón
 
-16.<img/>
+16:<img/>
 Representa una imagen
 
 17.<title> 
 titulo del documento
 
-18.<body>
+18:<body>
 Contenido del documento
 
-19.<Style>
+19:<Style>
 Define los estilos del documento (style.css)
 
-20.<video> 
+20:<video> 
 Representa un video
